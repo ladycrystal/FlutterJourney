@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # FlutterJourney
 I document my learning journey with Flutter.
->>>>>>> cdb0500ff02e227ccf743835fc5da770c8d0ba1f
+
